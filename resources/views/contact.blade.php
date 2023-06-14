@@ -8,15 +8,17 @@
             <!--========== ISLANDS 1 ==========-->
             <section class="islands swiper-slide">
               <img
-                src="{{ asset('frontend/assets/img/contact-hero.jpg') }}"
+                src="{{ asset('frontend/assets/img/US.jpg') }}"
                 alt=""
                 class="islands__bg"
               />
               <div class="bg__overlay">
                 <div class="islands__container container">
                   <div class="islands__data">
-                    <h2 class="islands__subtitle">Need Travel</h2>
                     <h1 class="islands__title">Contact Us</h1>
+                    <p style="color: white;">Chez My Guide, nous sommes passionnés par 
+                      la création de solutions innovantes qui améliorent la vie de nos clients. Nous sommes une équipe dynamique
+                       composée d'experts dans différents domaines, travaillant ensemble pour offrir des produits et des services de qualité supérieure. Notre engagement envers l'excellence nous pousse à repousser constamment les limites et à rechercher de nouvelles façons de répondre aux besoins changeants de nos clients.</p>
                   </div>
                 </div>
               </div>
@@ -31,7 +33,7 @@
             <div class="contact__orbe"></div>
 
             <div class="contact__img">
-              <img src="{{ asset('frontend/assets/img/contact.jpg') }}" alt="" />
+              <img src="{{ asset('frontend/assets/img/TSNT.jpeg') }}" alt="" />
             </div>
           </div>
 
